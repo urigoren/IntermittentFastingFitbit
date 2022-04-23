@@ -1,0 +1,23 @@
+{
+  "devDependencies": {
+    "@fitbit/sdk": "~6.1.0"
+  },
+  "fitbit": {
+    "appUUID": "eec91c45-7cae-40eb-8138-615376dd2764",
+    "appType": "clockface",
+    "appDisplayName": "IF Clock",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "atlas",
+      "vulcan"
+    ],
+    "i18n": {
+      "en-US": {
+        "name": "IF Clock"
+      }
+    },
+    "defaultLanguage": "en-US"
+  }
+}
