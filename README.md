@@ -12,3 +12,7 @@ Use this simple, open-source clockface for your time resctricted feeding regime,
 <a href="https://gallery.fitbit.com/details/eec91c45-7cae-40eb-8138-615376dd2764">Get it on the fitbit gallery</a>
 ## Set your feeding window
 Go to settings on your mobile device, and set the start and end time for your feeding window.
+# Support
+This project is provided free of charge, open source, with no hidden intentions or an upsale in mind.
+
+If you enjoy the clock-face, feel free to support me by [buying me a coffee](https://www.buymeacoffee.com/ugoren)
